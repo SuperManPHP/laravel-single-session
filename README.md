@@ -1,6 +1,6 @@
 # Laravel-single-session
 
-A plugin provide single session authentication for Laravel 5.
+A plugin provide single session authentication for Laravel 5.8.
 
 ## Installing
 
