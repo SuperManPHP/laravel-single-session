@@ -5,7 +5,7 @@ A plugin provide single session authentication for Laravel 5.8.
 ## Installing
 
 ```shell
-$ composer require overtrue/laravel-single-session -vvv
+$ composer require overtrue/laravel-single-session -dev-master
 ```
 
 ## Usage
